@@ -1,0 +1,5940 @@
+{
+  "code": "season01",
+  "dateSince": 1771337271,
+  "dateUntil": 1776521271,
+  "durationDays": 60,
+  "goldPassItem": 603,
+  "levels": {
+    "freePass": {
+      "1": {
+        "minPoints": 100,
+        "reward": {}
+      },
+      "2": {
+        "minPoints": 110,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "3": {
+        "minPoints": 120,
+        "reward": {
+          "currencies": {
+            "101": 20
+          }
+        }
+      },
+      "4": {
+        "minPoints": 130,
+        "reward": {
+          "currencies": {
+            "101": 30
+          }
+        }
+      },
+      "5": {
+        "minPoints": 140,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "6": {
+        "minPoints": 150,
+        "reward": {
+          "currencies": {
+            "101": 50
+          }
+        }
+      },
+      "7": {
+        "minPoints": 160,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "8": {
+        "minPoints": 170,
+        "reward": {
+          "currencies": {
+            "101": 20
+          }
+        }
+      },
+      "9": {
+        "minPoints": 180,
+        "reward": {
+          "currencies": {
+            "101": 30
+          }
+        }
+      },
+      "10": {
+        "minPoints": 190,
+        "reward": {
+          "items": {
+            "801": 1
+          }
+        }
+      },
+      "11": {
+        "minPoints": 200,
+        "reward": {
+          "currencies": {
+            "101": 50
+          }
+        }
+      },
+      "12": {
+        "minPoints": 210,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "13": {
+        "minPoints": 220,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "14": {
+        "minPoints": 230,
+        "reward": {
+          "currencies": {
+            "101": 20
+          }
+        }
+      },
+      "15": {
+        "minPoints": 240,
+        "reward": {
+          "currencies": {
+            "101": 30
+          }
+        }
+      },
+      "16": {
+        "minPoints": 250,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "17": {
+        "minPoints": 260,
+        "reward": {
+          "currencies": {
+            "101": 50
+          }
+        }
+      },
+      "18": {
+        "minPoints": 270,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "19": {
+        "minPoints": 280,
+        "reward": {
+          "currencies": {
+            "101": 20
+          }
+        }
+      },
+      "20": {
+        "minPoints": 290,
+        "reward": {
+          "currencies": {
+            "101": 30
+          }
+        }
+      },
+      "21": {
+        "minPoints": 300,
+        "reward": {
+          "items": {
+            "801": 1
+          }
+        }
+      },
+      "22": {
+        "minPoints": 310,
+        "reward": {
+          "currencies": {
+            "101": 50
+          }
+        }
+      },
+      "23": {
+        "minPoints": 320,
+        "reward": {
+          "items": {
+            "129": 1
+          }
+        }
+      },
+      "24": {
+        "minPoints": 330,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "25": {
+        "minPoints": 340,
+        "reward": {
+          "currencies": {
+            "101": 20
+          }
+        }
+      },
+      "26": {
+        "minPoints": 350,
+        "reward": {
+          "currencies": {
+            "101": 30
+          }
+        }
+      },
+      "27": {
+        "minPoints": 360,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "28": {
+        "minPoints": 370,
+        "reward": {
+          "currencies": {
+            "101": 50
+          }
+        }
+      },
+      "29": {
+        "minPoints": 380,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "30": {
+        "minPoints": 390,
+        "reward": {
+          "currencies": {
+            "101": 20
+          }
+        }
+      },
+      "31": {
+        "minPoints": 400,
+        "reward": {
+          "currencies": {
+            "101": 30
+          }
+        }
+      },
+      "32": {
+        "minPoints": 410,
+        "reward": {
+          "items": {
+            "801": 1
+          }
+        }
+      },
+      "33": {
+        "minPoints": 420,
+        "reward": {
+          "currencies": {
+            "101": 50
+          }
+        }
+      },
+      "34": {
+        "minPoints": 430,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS_STATTRACK": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "35": {
+        "minPoints": 440,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "36": {
+        "minPoints": 450,
+        "reward": {
+          "currencies": {
+            "101": 20
+          }
+        }
+      },
+      "37": {
+        "minPoints": 460,
+        "reward": {
+          "currencies": {
+            "101": 30
+          }
+        }
+      },
+      "38": {
+        "minPoints": 470,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "39": {
+        "minPoints": 480,
+        "reward": {
+          "currencies": {
+            "101": 50
+          }
+        }
+      },
+      "40": {
+        "minPoints": 490,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "41": {
+        "minPoints": 500,
+        "reward": {
+          "currencies": {
+            "101": 20
+          }
+        }
+      },
+      "42": {
+        "minPoints": 510,
+        "reward": {
+          "currencies": {
+            "101": 30
+          }
+        }
+      },
+      "43": {
+        "minPoints": 520,
+        "reward": {
+          "items": {
+            "801": 1
+          }
+        }
+      },
+      "44": {
+        "minPoints": 530,
+        "reward": {
+          "currencies": {
+            "101": 50
+          }
+        }
+      },
+      "45": {
+        "minPoints": 540,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "46": {
+        "minPoints": 550,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "47": {
+        "minPoints": 560,
+        "reward": {
+          "currencies": {
+            "101": 20
+          }
+        }
+      },
+      "48": {
+        "minPoints": 570,
+        "reward": {
+          "currencies": {
+            "101": 30
+          }
+        }
+      },
+      "49": {
+        "minPoints": 580,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_BOXES": {
+              "i1": 401,
+              "i2": 402,
+              "i3": 403,
+              "i4": 404,
+              "i5": 405
+            }
+          }
+        }
+      },
+      "50": {
+        "minPoints": 590,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "51": {
+        "minPoints": 600,
+        "reward": {}
+      },
+      "52": {
+        "minPoints": 610,
+        "reward": {}
+      },
+      "53": {
+        "minPoints": 620,
+        "reward": {}
+      },
+      "54": {
+        "minPoints": 630,
+        "reward": {}
+      },
+      "55": {
+        "minPoints": 640,
+        "reward": {}
+      },
+      "56": {
+        "minPoints": 650,
+        "reward": {}
+      },
+      "57": {
+        "minPoints": 660,
+        "reward": {}
+      },
+      "58": {
+        "minPoints": 670,
+        "reward": {}
+      },
+      "59": {
+        "minPoints": 680,
+        "reward": {}
+      },
+      "60": {
+        "minPoints": 690,
+        "reward": {}
+      },
+      "61": {
+        "minPoints": 700,
+        "reward": {}
+      },
+      "62": {
+        "minPoints": 710,
+        "reward": {}
+      },
+      "63": {
+        "minPoints": 720,
+        "reward": {}
+      },
+      "64": {
+        "minPoints": 730,
+        "reward": {}
+      },
+      "65": {
+        "minPoints": 740,
+        "reward": {}
+      },
+      "66": {
+        "minPoints": 750,
+        "reward": {}
+      },
+      "67": {
+        "minPoints": 760,
+        "reward": {}
+      },
+      "68": {
+        "minPoints": 770,
+        "reward": {}
+      },
+      "69": {
+        "minPoints": 780,
+        "reward": {}
+      },
+      "70": {
+        "minPoints": 790,
+        "reward": {}
+      },
+      "71": {
+        "minPoints": 800,
+        "reward": {}
+      },
+      "72": {
+        "minPoints": 810,
+        "reward": {}
+      },
+      "73": {
+        "minPoints": 820,
+        "reward": {}
+      },
+      "74": {
+        "minPoints": 830,
+        "reward": {}
+      },
+      "75": {
+        "minPoints": 840,
+        "reward": {}
+      },
+      "76": {
+        "minPoints": 850,
+        "reward": {}
+      },
+      "77": {
+        "minPoints": 860,
+        "reward": {}
+      },
+      "78": {
+        "minPoints": 870,
+        "reward": {}
+      },
+      "79": {
+        "minPoints": 880,
+        "reward": {}
+      },
+      "80": {
+        "minPoints": 890,
+        "reward": {}
+      },
+      "81": {
+        "minPoints": 900,
+        "reward": {}
+      },
+      "82": {
+        "minPoints": 910,
+        "reward": {}
+      },
+      "83": {
+        "minPoints": 920,
+        "reward": {}
+      },
+      "84": {
+        "minPoints": 930,
+        "reward": {}
+      },
+      "85": {
+        "minPoints": 940,
+        "reward": {}
+      },
+      "86": {
+        "minPoints": 950,
+        "reward": {}
+      },
+      "87": {
+        "minPoints": 960,
+        "reward": {}
+      },
+      "88": {
+        "minPoints": 970,
+        "reward": {}
+      },
+      "89": {
+        "minPoints": 980,
+        "reward": {}
+      },
+      "90": {
+        "minPoints": 990,
+        "reward": {}
+      },
+      "91": {
+        "minPoints": 1000,
+        "reward": {}
+      },
+      "92": {
+        "minPoints": 1010,
+        "reward": {}
+      },
+      "93": {
+        "minPoints": 1020,
+        "reward": {}
+      },
+      "94": {
+        "minPoints": 1030,
+        "reward": {}
+      },
+      "95": {
+        "minPoints": 1040,
+        "reward": {}
+      },
+      "96": {
+        "minPoints": 1050,
+        "reward": {}
+      },
+      "97": {
+        "minPoints": 1060,
+        "reward": {}
+      },
+      "98": {
+        "minPoints": 1070,
+        "reward": {}
+      },
+      "99": {
+        "minPoints": 1080,
+        "reward": {}
+      },
+      "100": {
+        "minPoints": 1090,
+        "reward": {}
+      },
+      "101": {
+        "minPoints": 1100,
+        "reward": {}
+      },
+      "102": {
+        "minPoints": 1110,
+        "reward": {}
+      },
+      "103": {
+        "minPoints": 1120,
+        "reward": {}
+      },
+      "104": {
+        "minPoints": 1130,
+        "reward": {}
+      },
+      "105": {
+        "minPoints": 1140,
+        "reward": {}
+      },
+      "106": {
+        "minPoints": 1150,
+        "reward": {}
+      },
+      "107": {
+        "minPoints": 1160,
+        "reward": {}
+      },
+      "108": {
+        "minPoints": 1170,
+        "reward": {}
+      },
+      "109": {
+        "minPoints": 1180,
+        "reward": {}
+      },
+      "110": {
+        "minPoints": 1190,
+        "reward": {}
+      },
+      "111": {
+        "minPoints": 1200,
+        "reward": {}
+      },
+      "112": {
+        "minPoints": 1210,
+        "reward": {}
+      },
+      "113": {
+        "minPoints": 1220,
+        "reward": {}
+      },
+      "114": {
+        "minPoints": 1230,
+        "reward": {}
+      },
+      "115": {
+        "minPoints": 1240,
+        "reward": {}
+      },
+      "116": {
+        "minPoints": 1250,
+        "reward": {}
+      },
+      "117": {
+        "minPoints": 1260,
+        "reward": {}
+      },
+      "118": {
+        "minPoints": 1270,
+        "reward": {}
+      },
+      "119": {
+        "minPoints": 1280,
+        "reward": {}
+      },
+      "120": {
+        "minPoints": 1290,
+        "reward": {}
+      },
+      "121": {
+        "minPoints": 1300,
+        "reward": {}
+      },
+      "122": {
+        "minPoints": 1310,
+        "reward": {}
+      },
+      "123": {
+        "minPoints": 1320,
+        "reward": {}
+      },
+      "124": {
+        "minPoints": 1330,
+        "reward": {}
+      },
+      "125": {
+        "minPoints": 1340,
+        "reward": {}
+      },
+      "126": {
+        "minPoints": 1350,
+        "reward": {}
+      },
+      "127": {
+        "minPoints": 1360,
+        "reward": {}
+      },
+      "128": {
+        "minPoints": 1370,
+        "reward": {}
+      },
+      "129": {
+        "minPoints": 1380,
+        "reward": {}
+      },
+      "130": {
+        "minPoints": 1390,
+        "reward": {}
+      },
+      "131": {
+        "minPoints": 1400,
+        "reward": {}
+      },
+      "132": {
+        "minPoints": 1410,
+        "reward": {}
+      },
+      "133": {
+        "minPoints": 1420,
+        "reward": {}
+      },
+      "134": {
+        "minPoints": 1430,
+        "reward": {}
+      },
+      "135": {
+        "minPoints": 1440,
+        "reward": {}
+      },
+      "136": {
+        "minPoints": 1450,
+        "reward": {}
+      },
+      "137": {
+        "minPoints": 1460,
+        "reward": {}
+      },
+      "138": {
+        "minPoints": 1470,
+        "reward": {}
+      },
+      "139": {
+        "minPoints": 1480,
+        "reward": {}
+      },
+      "140": {
+        "minPoints": 1490,
+        "reward": {}
+      },
+      "141": {
+        "minPoints": 1500,
+        "reward": {}
+      },
+      "142": {
+        "minPoints": 1510,
+        "reward": {}
+      },
+      "143": {
+        "minPoints": 1520,
+        "reward": {}
+      },
+      "144": {
+        "minPoints": 1530,
+        "reward": {}
+      },
+      "145": {
+        "minPoints": 1540,
+        "reward": {}
+      },
+      "146": {
+        "minPoints": 1550,
+        "reward": {}
+      },
+      "147": {
+        "minPoints": 1560,
+        "reward": {}
+      },
+      "148": {
+        "minPoints": 1570,
+        "reward": {}
+      },
+      "149": {
+        "minPoints": 1580,
+        "reward": {}
+      },
+      "150": {
+        "minPoints": 1590,
+        "reward": {}
+      },
+      "151": {
+        "minPoints": 1600,
+        "reward": {}
+      },
+      "152": {
+        "minPoints": 1610,
+        "reward": {}
+      },
+      "153": {
+        "minPoints": 1620,
+        "reward": {}
+      },
+      "154": {
+        "minPoints": 1630,
+        "reward": {}
+      },
+      "155": {
+        "minPoints": 1640,
+        "reward": {}
+      },
+      "156": {
+        "minPoints": 1650,
+        "reward": {}
+      },
+      "157": {
+        "minPoints": 1660,
+        "reward": {}
+      },
+      "158": {
+        "minPoints": 1670,
+        "reward": {}
+      },
+      "159": {
+        "minPoints": 1680,
+        "reward": {}
+      },
+      "160": {
+        "minPoints": 1690,
+        "reward": {}
+      },
+      "161": {
+        "minPoints": 1700,
+        "reward": {}
+      },
+      "162": {
+        "minPoints": 1710,
+        "reward": {}
+      },
+      "163": {
+        "minPoints": 1720,
+        "reward": {}
+      },
+      "164": {
+        "minPoints": 1730,
+        "reward": {}
+      },
+      "165": {
+        "minPoints": 1740,
+        "reward": {}
+      },
+      "166": {
+        "minPoints": 1750,
+        "reward": {}
+      },
+      "167": {
+        "minPoints": 1760,
+        "reward": {}
+      },
+      "168": {
+        "minPoints": 1770,
+        "reward": {}
+      },
+      "169": {
+        "minPoints": 1780,
+        "reward": {}
+      },
+      "170": {
+        "minPoints": 1790,
+        "reward": {}
+      },
+      "171": {
+        "minPoints": 1800,
+        "reward": {}
+      },
+      "172": {
+        "minPoints": 1810,
+        "reward": {}
+      },
+      "173": {
+        "minPoints": 1820,
+        "reward": {}
+      },
+      "174": {
+        "minPoints": 1830,
+        "reward": {}
+      },
+      "175": {
+        "minPoints": 1840,
+        "reward": {}
+      },
+      "176": {
+        "minPoints": 1850,
+        "reward": {}
+      },
+      "177": {
+        "minPoints": 1860,
+        "reward": {}
+      },
+      "178": {
+        "minPoints": 1870,
+        "reward": {}
+      },
+      "179": {
+        "minPoints": 1880,
+        "reward": {}
+      },
+      "180": {
+        "minPoints": 1890,
+        "reward": {}
+      },
+      "181": {
+        "minPoints": 1900,
+        "reward": {}
+      },
+      "182": {
+        "minPoints": 1910,
+        "reward": {}
+      },
+      "183": {
+        "minPoints": 1920,
+        "reward": {}
+      },
+      "184": {
+        "minPoints": 1930,
+        "reward": {}
+      },
+      "185": {
+        "minPoints": 1940,
+        "reward": {}
+      },
+      "186": {
+        "minPoints": 1950,
+        "reward": {}
+      },
+      "187": {
+        "minPoints": 1960,
+        "reward": {}
+      },
+      "188": {
+        "minPoints": 1970,
+        "reward": {}
+      },
+      "189": {
+        "minPoints": 1980,
+        "reward": {}
+      },
+      "190": {
+        "minPoints": 1990,
+        "reward": {}
+      },
+      "191": {
+        "minPoints": 2000,
+        "reward": {}
+      },
+      "192": {
+        "minPoints": 2010,
+        "reward": {}
+      },
+      "193": {
+        "minPoints": 2020,
+        "reward": {}
+      },
+      "194": {
+        "minPoints": 2030,
+        "reward": {}
+      },
+      "195": {
+        "minPoints": 2040,
+        "reward": {}
+      },
+      "196": {
+        "minPoints": 2050,
+        "reward": {}
+      },
+      "197": {
+        "minPoints": 2060,
+        "reward": {}
+      },
+      "198": {
+        "minPoints": 2070,
+        "reward": {}
+      },
+      "199": {
+        "minPoints": 2080,
+        "reward": {}
+      },
+      "200": {
+        "minPoints": 2090,
+        "reward": {}
+      },
+      "201": {
+        "minPoints": 2100,
+        "reward": {}
+      },
+      "202": {
+        "minPoints": 2110,
+        "reward": {}
+      },
+      "203": {
+        "minPoints": 2120,
+        "reward": {}
+      },
+      "204": {
+        "minPoints": 2130,
+        "reward": {}
+      },
+      "205": {
+        "minPoints": 2140,
+        "reward": {}
+      },
+      "206": {
+        "minPoints": 2150,
+        "reward": {}
+      },
+      "207": {
+        "minPoints": 2160,
+        "reward": {}
+      },
+      "208": {
+        "minPoints": 2170,
+        "reward": {}
+      },
+      "209": {
+        "minPoints": 2180,
+        "reward": {}
+      },
+      "210": {
+        "minPoints": 2190,
+        "reward": {}
+      },
+      "211": {
+        "minPoints": 2200,
+        "reward": {}
+      },
+      "212": {
+        "minPoints": 2210,
+        "reward": {}
+      },
+      "213": {
+        "minPoints": 2220,
+        "reward": {}
+      },
+      "214": {
+        "minPoints": 2230,
+        "reward": {}
+      },
+      "215": {
+        "minPoints": 2240,
+        "reward": {}
+      },
+      "216": {
+        "minPoints": 2250,
+        "reward": {}
+      },
+      "217": {
+        "minPoints": 2260,
+        "reward": {}
+      },
+      "218": {
+        "minPoints": 2270,
+        "reward": {}
+      },
+      "219": {
+        "minPoints": 2280,
+        "reward": {}
+      },
+      "220": {
+        "minPoints": 2290,
+        "reward": {}
+      },
+      "221": {
+        "minPoints": 2300,
+        "reward": {}
+      },
+      "222": {
+        "minPoints": 2310,
+        "reward": {}
+      },
+      "223": {
+        "minPoints": 2320,
+        "reward": {}
+      },
+      "224": {
+        "minPoints": 2330,
+        "reward": {}
+      },
+      "225": {
+        "minPoints": 2340,
+        "reward": {}
+      },
+      "226": {
+        "minPoints": 2350,
+        "reward": {}
+      },
+      "227": {
+        "minPoints": 2360,
+        "reward": {}
+      },
+      "228": {
+        "minPoints": 2370,
+        "reward": {}
+      },
+      "229": {
+        "minPoints": 2380,
+        "reward": {}
+      },
+      "230": {
+        "minPoints": 2390,
+        "reward": {}
+      },
+      "231": {
+        "minPoints": 2400,
+        "reward": {}
+      },
+      "232": {
+        "minPoints": 2410,
+        "reward": {}
+      },
+      "233": {
+        "minPoints": 2420,
+        "reward": {}
+      },
+      "234": {
+        "minPoints": 2430,
+        "reward": {}
+      },
+      "235": {
+        "minPoints": 2440,
+        "reward": {}
+      },
+      "236": {
+        "minPoints": 2450,
+        "reward": {}
+      },
+      "237": {
+        "minPoints": 2460,
+        "reward": {}
+      },
+      "238": {
+        "minPoints": 2470,
+        "reward": {}
+      },
+      "239": {
+        "minPoints": 2480,
+        "reward": {}
+      },
+      "240": {
+        "minPoints": 2490,
+        "reward": {}
+      },
+      "241": {
+        "minPoints": 2500,
+        "reward": {}
+      },
+      "242": {
+        "minPoints": 2510,
+        "reward": {}
+      },
+      "243": {
+        "minPoints": 2520,
+        "reward": {}
+      },
+      "244": {
+        "minPoints": 2530,
+        "reward": {}
+      },
+      "245": {
+        "minPoints": 2540,
+        "reward": {}
+      },
+      "246": {
+        "minPoints": 2550,
+        "reward": {}
+      },
+      "247": {
+        "minPoints": 2560,
+        "reward": {}
+      },
+      "248": {
+        "minPoints": 2570,
+        "reward": {}
+      },
+      "249": {
+        "minPoints": 2580,
+        "reward": {}
+      },
+      "250": {
+        "minPoints": 2590,
+        "reward": {}
+      }
+    },
+    "goldPass": {
+      "1": {
+        "minPoints": 10,
+        "reward": {
+          "items": {
+            "129": 1
+          }
+        }
+      },
+      "2": {
+        "minPoints": 20,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "3": {
+        "minPoints": 30,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "4": {
+        "minPoints": 40,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "5": {
+        "minPoints": 50,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "6": {
+        "minPoints": 60,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "7": {
+        "minPoints": 70,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "8": {
+        "minPoints": 80,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "9": {
+        "minPoints": 90,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "10": {
+        "minPoints": 100,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "11": {
+        "minPoints": 110,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "12": {
+        "minPoints": 120,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "13": {
+        "minPoints": 130,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "14": {
+        "minPoints": 140,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "15": {
+        "minPoints": 150,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "16": {
+        "minPoints": 160,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "17": {
+        "minPoints": 170,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "18": {
+        "minPoints": 180,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "19": {
+        "minPoints": 190,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "20": {
+        "minPoints": 200,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "21": {
+        "minPoints": 210,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "22": {
+        "minPoints": 220,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "23": {
+        "minPoints": 230,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "24": {
+        "minPoints": 240,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "25": {
+        "minPoints": 250,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "26": {
+        "minPoints": 260,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "27": {
+        "minPoints": 270,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "28": {
+        "minPoints": 280,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "29": {
+        "minPoints": 290,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "30": {
+        "minPoints": 300,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "31": {
+        "minPoints": 310,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "32": {
+        "minPoints": 320,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "33": {
+        "minPoints": 330,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "34": {
+        "minPoints": 340,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "35": {
+        "minPoints": 350,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "36": {
+        "minPoints": 360,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "37": {
+        "minPoints": 370,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "38": {
+        "minPoints": 380,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "39": {
+        "minPoints": 390,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "40": {
+        "minPoints": 400,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "41": {
+        "minPoints": 410,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "42": {
+        "minPoints": 420,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "43": {
+        "minPoints": 430,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "44": {
+        "minPoints": 440,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "45": {
+        "minPoints": 450,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "46": {
+        "minPoints": 460,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "47": {
+        "minPoints": 470,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "48": {
+        "minPoints": 480,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "49": {
+        "minPoints": 490,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "50": {
+        "minPoints": 500,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_KNIVES": {
+              "i1": 77813,
+              "i2": 77814,
+              "i3": 77815,
+              "i4": 77816,
+              "i5": 77817
+            }
+          }
+        }
+      },
+      "51": {
+        "minPoints": 510,
+        "reward": {
+          "items": {
+            "130": 1
+          }
+        }
+      },
+      "52": {
+        "minPoints": 520,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "53": {
+        "minPoints": 530,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "54": {
+        "minPoints": 540,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "55": {
+        "minPoints": 550,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "56": {
+        "minPoints": 560,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "57": {
+        "minPoints": 570,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "58": {
+        "minPoints": 580,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "59": {
+        "minPoints": 590,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "60": {
+        "minPoints": 600,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "61": {
+        "minPoints": 610,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "62": {
+        "minPoints": 620,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "63": {
+        "minPoints": 630,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "64": {
+        "minPoints": 640,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "65": {
+        "minPoints": 650,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "66": {
+        "minPoints": 660,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "67": {
+        "minPoints": 670,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "68": {
+        "minPoints": 680,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "69": {
+        "minPoints": 690,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "70": {
+        "minPoints": 700,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "71": {
+        "minPoints": 710,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "72": {
+        "minPoints": 720,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "73": {
+        "minPoints": 730,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "74": {
+        "minPoints": 740,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "75": {
+        "minPoints": 750,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "76": {
+        "minPoints": 760,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "77": {
+        "minPoints": 770,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "78": {
+        "minPoints": 780,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "79": {
+        "minPoints": 790,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "80": {
+        "minPoints": 800,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "81": {
+        "minPoints": 810,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "82": {
+        "minPoints": 820,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "83": {
+        "minPoints": 830,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "84": {
+        "minPoints": 840,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "85": {
+        "minPoints": 850,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "86": {
+        "minPoints": 860,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "87": {
+        "minPoints": 870,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "88": {
+        "minPoints": 880,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "89": {
+        "minPoints": 890,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "90": {
+        "minPoints": 900,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "91": {
+        "minPoints": 910,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "92": {
+        "minPoints": 920,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "93": {
+        "minPoints": 930,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "94": {
+        "minPoints": 940,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "95": {
+        "minPoints": 950,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "96": {
+        "minPoints": 960,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "97": {
+        "minPoints": 970,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "98": {
+        "minPoints": 980,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "99": {
+        "minPoints": 990,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "100": {
+        "minPoints": 1000,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_KNIVES": {
+              "i1": 77813,
+              "i2": 77814,
+              "i3": 77815,
+              "i4": 77816,
+              "i5": 77817
+            }
+          }
+        }
+      },
+      "101": {
+        "minPoints": 1010,
+        "reward": {
+          "items": {
+            "131": 1
+          }
+        }
+      },
+      "102": {
+        "minPoints": 1020,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "103": {
+        "minPoints": 1030,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "104": {
+        "minPoints": 1040,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "105": {
+        "minPoints": 1050,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "106": {
+        "minPoints": 1060,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "107": {
+        "minPoints": 1070,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "108": {
+        "minPoints": 1080,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "109": {
+        "minPoints": 1090,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "110": {
+        "minPoints": 1100,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "111": {
+        "minPoints": 1110,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "112": {
+        "minPoints": 1120,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "113": {
+        "minPoints": 1130,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "114": {
+        "minPoints": 1140,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "115": {
+        "minPoints": 1150,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "116": {
+        "minPoints": 1160,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "117": {
+        "minPoints": 1170,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "118": {
+        "minPoints": 1180,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "119": {
+        "minPoints": 1190,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "120": {
+        "minPoints": 1200,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "121": {
+        "minPoints": 1210,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "122": {
+        "minPoints": 1220,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "123": {
+        "minPoints": 1230,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "124": {
+        "minPoints": 1240,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "125": {
+        "minPoints": 1250,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "126": {
+        "minPoints": 1260,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "127": {
+        "minPoints": 1270,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "128": {
+        "minPoints": 1280,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "129": {
+        "minPoints": 1290,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "130": {
+        "minPoints": 1300,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "131": {
+        "minPoints": 1310,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "132": {
+        "minPoints": 1320,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "133": {
+        "minPoints": 1330,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "134": {
+        "minPoints": 1340,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "135": {
+        "minPoints": 1350,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "136": {
+        "minPoints": 1360,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "137": {
+        "minPoints": 1370,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "138": {
+        "minPoints": 1380,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "139": {
+        "minPoints": 1390,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "140": {
+        "minPoints": 1400,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "141": {
+        "minPoints": 1410,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "142": {
+        "minPoints": 1420,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "143": {
+        "minPoints": 1430,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "144": {
+        "minPoints": 1440,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "145": {
+        "minPoints": 1450,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "146": {
+        "minPoints": 1460,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "147": {
+        "minPoints": 1470,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "148": {
+        "minPoints": 1480,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "149": {
+        "minPoints": 1490,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "150": {
+        "minPoints": 1500,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_KNIVES": {
+              "i1": 77813,
+              "i2": 77814,
+              "i3": 77815,
+              "i4": 77816,
+              "i5": 77817
+            }
+          }
+        }
+      },
+      "151": {
+        "minPoints": 1510,
+        "reward": {
+          "items": {
+            "132": 1
+          }
+        }
+      },
+      "152": {
+        "minPoints": 1520,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "153": {
+        "minPoints": 1530,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "154": {
+        "minPoints": 1540,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "155": {
+        "minPoints": 1550,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "156": {
+        "minPoints": 1560,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "157": {
+        "minPoints": 1570,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "158": {
+        "minPoints": 1580,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "159": {
+        "minPoints": 1590,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "160": {
+        "minPoints": 1600,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "161": {
+        "minPoints": 1610,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "162": {
+        "minPoints": 1620,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "163": {
+        "minPoints": 1630,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "164": {
+        "minPoints": 1640,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "165": {
+        "minPoints": 1650,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "166": {
+        "minPoints": 1660,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "167": {
+        "minPoints": 1670,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "168": {
+        "minPoints": 1680,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "169": {
+        "minPoints": 1690,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "170": {
+        "minPoints": 1700,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "171": {
+        "minPoints": 1710,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "172": {
+        "minPoints": 1720,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "173": {
+        "minPoints": 1730,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "174": {
+        "minPoints": 1740,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "175": {
+        "minPoints": 1750,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "176": {
+        "minPoints": 1760,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "177": {
+        "minPoints": 1770,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "178": {
+        "minPoints": 1780,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "179": {
+        "minPoints": 1790,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "180": {
+        "minPoints": 1800,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "181": {
+        "minPoints": 1810,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "182": {
+        "minPoints": 1820,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "183": {
+        "minPoints": 1830,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "184": {
+        "minPoints": 1840,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "185": {
+        "minPoints": 1850,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "186": {
+        "minPoints": 1860,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "187": {
+        "minPoints": 1870,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "188": {
+        "minPoints": 1880,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "189": {
+        "minPoints": 1890,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "190": {
+        "minPoints": 1900,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "191": {
+        "minPoints": 1910,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "192": {
+        "minPoints": 1920,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "193": {
+        "minPoints": 1930,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "194": {
+        "minPoints": 1940,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "195": {
+        "minPoints": 1950,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "196": {
+        "minPoints": 1960,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "197": {
+        "minPoints": 1970,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "198": {
+        "minPoints": 1980,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "199": {
+        "minPoints": 1990,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "200": {
+        "minPoints": 2000,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_KNIVES": {
+              "i1": 77813,
+              "i2": 77814,
+              "i3": 77815,
+              "i4": 77816,
+              "i5": 77817
+            }
+          }
+        }
+      },
+      "201": {
+        "minPoints": 2010,
+        "reward": {
+          "items": {
+            "133": 1
+          }
+        }
+      },
+      "202": {
+        "minPoints": 2020,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "203": {
+        "minPoints": 2030,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "204": {
+        "minPoints": 2040,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "205": {
+        "minPoints": 2050,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "206": {
+        "minPoints": 2060,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "207": {
+        "minPoints": 2070,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "208": {
+        "minPoints": 2080,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "209": {
+        "minPoints": 2090,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "210": {
+        "minPoints": 2100,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "211": {
+        "minPoints": 2110,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "212": {
+        "minPoints": 2120,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "213": {
+        "minPoints": 2130,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "214": {
+        "minPoints": 2140,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "215": {
+        "minPoints": 2150,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "216": {
+        "minPoints": 2160,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "217": {
+        "minPoints": 2170,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "218": {
+        "minPoints": 2180,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "219": {
+        "minPoints": 2190,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "220": {
+        "minPoints": 2200,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "221": {
+        "minPoints": 2210,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "222": {
+        "minPoints": 2220,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "223": {
+        "minPoints": 2230,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "224": {
+        "minPoints": 2240,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "225": {
+        "minPoints": 2250,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "226": {
+        "minPoints": 2260,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "227": {
+        "minPoints": 2270,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "228": {
+        "minPoints": 2280,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "229": {
+        "minPoints": 2290,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "230": {
+        "minPoints": 2300,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "231": {
+        "minPoints": 2310,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "232": {
+        "minPoints": 2320,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "233": {
+        "minPoints": 2330,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "234": {
+        "minPoints": 2340,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "235": {
+        "minPoints": 2350,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "236": {
+        "minPoints": 2360,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "237": {
+        "minPoints": 2370,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "238": {
+        "minPoints": 2380,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "239": {
+        "minPoints": 2390,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "240": {
+        "minPoints": 2400,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "241": {
+        "minPoints": 2410,
+        "reward": {
+          "items": {
+            "702": 1
+          }
+        }
+      },
+      "242": {
+        "minPoints": 2420,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "243": {
+        "minPoints": 2430,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "244": {
+        "minPoints": 2440,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_CASES": {
+              "i1": 301,
+              "i2": 302,
+              "i3": 303,
+              "i4": 304,
+              "i5": 305
+            }
+          }
+        }
+      },
+      "245": {
+        "minPoints": 2450,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "246": {
+        "minPoints": 2460,
+        "reward": {
+          "items": {
+            "802": 1
+          }
+        }
+      },
+      "247": {
+        "minPoints": 2470,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_STICKERS": {
+              "i1": 1134,
+              "i2": 1135,
+              "i3": 1137,
+              "i4": 1142,
+              "i5": 1143,
+              "i6": 1144,
+              "i7": 1146,
+              "i8": 1147,
+              "i9": 1136,
+              "i10": 1138,
+              "i11": 1145,
+              "i12": 1139,
+              "i13": 1141,
+              "i14": 1133
+            }
+          }
+        }
+      },
+      "248": {
+        "minPoints": 2480,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "249": {
+        "minPoints": 2490,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_SKINS": {
+              "i1": 71104,
+              "i2": 71607,
+              "i3": 71702,
+              "i4": 73610,
+              "i5": 76218,
+              "i6": 71103,
+              "i7": 73208,
+              "i8": 73209,
+              "i9": 73611,
+              "i10": 71306,
+              "i11": 74800,
+              "i12": 73612,
+              "i13": 71701,
+              "i14": 75205
+            }
+          }
+        }
+      },
+      "250": {
+        "minPoints": 2500,
+        "reward": {
+          "recipes": {
+            "PROJECT_Z9_KNIVES": {
+              "i1": 77813,
+              "i2": 77814,
+              "i3": 77815,
+              "i4": 77816,
+              "i5": 77817
+            }
+          }
+        }
+      }
+    }
+  },
+  "enabled": true
+}
